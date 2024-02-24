@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/NeMo-ASR-jupyter/blob/main/NeMo_ASR_jupyter.ipynb) | NeMo_ASR_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/NeMo-ASR-jupyter/blob/main/transcribe_speech_jupyter.ipynb) | transcribe_speech_jupyter
 
 ### 🧬 Code
 https://github.com/NVIDIA/NeMo
